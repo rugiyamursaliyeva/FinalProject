@@ -11,4 +11,7 @@ The platform also has a **restricted login area** where only registered teachers
 
 This project demonstrates user roles, course management, and assignment handling in a simple educational platform.
 
-<img src="img1.png" width="300"/>
+<div style="text-align: center;">
+  <img src="img1.png" width="350"/>
+</div>
+
